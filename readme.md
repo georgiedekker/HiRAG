@@ -243,6 +243,12 @@ python batch_eval.py -m result -api openai
 |           |Diversity|           3.5|             **96.5**|
 |           |Overall|           0.0|             **100.0**|
 
+## Acknowledgement
+We gratefully acknowledge the use of the following open-source projects in our work:
+- [nano-graphrag](https://github.com/gusye1234/nano-graphrag): a simple, easy-to-hack GraphRAG implementation
+
+- [RAPTOR](https://github.com/parthsarthi03/raptor): a novel approach to retrieval-augmented language models by constructing a recursive tree structure from documents.
+
 ## Cite Us
 ```
 @misc{huang2025retrievalaugmentedgenerationhierarchicalknowledge,
