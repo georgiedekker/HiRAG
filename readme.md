@@ -34,7 +34,7 @@ print("Perform hi search:")
 print(graph_func.query("The question you want to ask?", param=QueryParam(mode="hi")))
 ```
 
-Or if you want to employ HiRAG with DeepSeek, ChatGLM, or other third-party retrieval api, here are the examples in `./hi_Search_deepseek.py`, `./hi_search_glm.py`, and `./hi_search_openai.py`. The API keys and the LLM configurations can be set at `config.yaml`.
+Or if you want to employ HiRAG with DeepSeek, ChatGLM, or other third-party retrieval api, here are the examples in `./hi_Search_deepseek.py`, `./hi_Search_glm.py`, and `./hi_Search_openai.py`. The API keys and the LLM configurations can be set at `./config.yaml`.
 
 
 ## Evaluation
